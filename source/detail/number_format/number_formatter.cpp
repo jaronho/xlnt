@@ -168,7 +168,7 @@ const std::unordered_map<int, std::string> known_locales()
             {0x83, "Corsican"},
             {0x84, "Alsatian"},
             {0x85, "Sakha"},
-            {0x86, "K’iche’"},
+            {0x86, "K'iche'"},
             {0x87, "Kinyarwanda"},
             {0x88, "Wolof"},
             {0x8C, "Dari"},
@@ -302,7 +302,7 @@ const std::unordered_map<int, std::string> known_locales()
             {0x483, "Corsican (France)"},
             {0x484, "Alsatian (France)"},
             {0x485, "Sakha (Russia)"},
-            {0x486, "K’iche’ (Guatemala)"},
+            {0x486, "K'iche' (Guatemala)"},
             {0x487, "Kinyarwanda (Rwanda)"},
             {0x488, "Wolof (Senegal)"},
             {0x48C, "Dari (Afghanistan)"},
@@ -464,7 +464,7 @@ const std::unordered_map<int, std::string> known_locales()
             {0x7C5F, "Tamazight (Latin)"},
             {0x7C67, "Fulah (Latin)"},
             {0x7C68, "Hausa (Latin)"},
-            {0x7C86, "K’iche’"},
+            {0x7C86, "K'iche'"},
             {0x7C92, "Central Kurdish (Arabic)"},
         });
 
