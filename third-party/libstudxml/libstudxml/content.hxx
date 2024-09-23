@@ -5,8 +5,8 @@
 #ifndef LIBSTUDXML_CONTENT_HXX
 #define LIBSTUDXML_CONTENT_HXX
 
-#include <libstudxml/details/pre.hxx>
-
+#include "details/pre.hxx"
+//
 namespace xml
 {
   // XML content model. C++11 enum class emulated for C++98.
@@ -29,7 +29,7 @@ namespace xml
     value v_;
   };
 }
-
-#include <libstudxml/details/post.hxx>
+//
+#include "details/post.hxx"
 
 #endif // LIBSTUDXML_CONTENT_HXX

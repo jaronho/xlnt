@@ -11,7 +11,7 @@
 #define XmlPrologStateInitExternalEntity    XmlPrologStateInitExternalEnt
 #endif
 
-#include <libstudxml/details/expat/xmltok.h>
+#include "xmltok.h"
 
 #ifdef __cplusplus
 extern "C" {

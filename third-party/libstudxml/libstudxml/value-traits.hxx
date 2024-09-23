@@ -5,14 +5,14 @@
 #ifndef LIBSTUDXML_VALUE_TRAITS_HXX
 #define LIBSTUDXML_VALUE_TRAITS_HXX
 
-#include <libstudxml/details/pre.hxx>
-
+#include "details/pre.hxx"
+//
 #include <string>
 #include <cstddef> // std::size_t
 
-#include <libstudxml/forward.hxx>
+#include "forward.hxx"
 
-#include <libstudxml/details/export.hxx>
+#include "details/export.hxx"
 
 namespace xml
 {
@@ -62,8 +62,8 @@ namespace xml
   struct value_traits<T[N]>: default_value_traits<const T*> {};
 }
 
-#include <libstudxml/value-traits.txx>
-
-#include <libstudxml/details/post.hxx>
+#include "value-traits.txx"
+//
+#include "details/post.hxx"
 
 #endif // LIBSTUDXML_VALUE_TRAITS_HXX

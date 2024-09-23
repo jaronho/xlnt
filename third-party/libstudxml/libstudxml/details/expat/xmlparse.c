@@ -10,10 +10,10 @@
 
 #define XML_BUILDING_EXPAT 1
 
-#include <libstudxml/details/expat/config.h>
+#include "config.h"
 
-#include <libstudxml/details/expat/ascii.h>
-#include <libstudxml/details/expat/expat.h>
+#include "ascii.h"
+#include "expat.h"
 
 #ifdef XML_UNICODE
 #define XML_ENCODE_MAX XML_UTF16_ENCODE_MAX
@@ -74,9 +74,9 @@ typedef char ICHAR;
 #endif /* HAVE_BCOPY */
 #endif /* HAVE_MEMMOVE */
 
-#include <libstudxml/details/expat/internal.h>
-#include <libstudxml/details/expat/xmltok.h>
-#include <libstudxml/details/expat/xmlrole.h>
+#include "internal.h"
+#include "xmltok.h"
+#include "xmlrole.h"
 
 typedef const XML_Char *KEY;
 

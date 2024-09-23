@@ -5,7 +5,7 @@
 #include <new>     // std::bad_alloc
 #include <cstring> // std::strlen
 
-#include <libstudxml/serializer.hxx>
+#include "serializer.hxx"
 
 using namespace std;
 

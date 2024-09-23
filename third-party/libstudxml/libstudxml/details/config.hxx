@@ -32,9 +32,9 @@
 #endif
 
 #ifdef _MSC_VER
-#  include <libstudxml/details/config-vc.h>
+#  include "config-vc.h"
 #else
-#  include <libstudxml/details/config.h>
+#  include "config.h"
 #endif
 
 #endif // LIBSTUDXML_DETAILS_CONFIG_HXX

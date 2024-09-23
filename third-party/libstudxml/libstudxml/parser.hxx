@@ -5,16 +5,16 @@
 #ifndef LIBSTUDXML_PARSER_HXX
 #define LIBSTUDXML_PARSER_HXX
 
-#include <libstudxml/details/pre.hxx>
-
+#include "details/pre.hxx"
+//
 #include <map>
 #include <vector>
 #include <string>
 #include <iosfwd>
 #include <cstddef> // std::size_t
 
-#include <libstudxml/details/config.hxx> // STUDXML_NOTHROW_NOEXCEPT,
-                                         // LIBSTUDXML_EXTERNAL_EXPAT
+#include "details/config.hxx" // STUDXML_NOTHROW_NOEXCEPT,
+                              // LIBSTUDXML_EXTERNAL_EXPAT
 
 #ifndef LIBSTUDXML_EXTERNAL_EXPAT
 #  include <libstudxml/details/expat/expat.h>
@@ -28,12 +28,12 @@
 #  error UTF-16 expat (XML_UNICODE defined) is not supported
 #endif
 
-#include <libstudxml/forward.hxx>
-#include <libstudxml/qname.hxx>
-#include <libstudxml/content.hxx>
-#include <libstudxml/exception.hxx>
+#include "forward.hxx"
+#include "qname.hxx"
+#include "content.hxx"
+#include "exception.hxx"
 
-#include <libstudxml/details/export.hxx>
+#include "details/export.hxx"
 
 namespace xml
 {
@@ -464,9 +464,9 @@ namespace xml
   operator<< (std::ostream&, parser::event_type);
 }
 
-#include <libstudxml/parser.ixx>
-#include <libstudxml/parser.txx>
-
-#include <libstudxml/details/post.hxx>
+#include "parser.ixx"
+#include "parser.txx"
+//
+#include "details/post.hxx"
 
 #endif // LIBSTUDXML_PARSER_HXX

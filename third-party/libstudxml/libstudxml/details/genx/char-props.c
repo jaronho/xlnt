@@ -11,7 +11,7 @@
  * This version is generated semi-automatically from the source code of the
  *  XML specification via emacs global replace and keyboard macros
  */
-#include <libstudxml/details/genx/genx.h>
+#include "genx.h"
 
 static void charProp(char * p, int c, int prop)
 {

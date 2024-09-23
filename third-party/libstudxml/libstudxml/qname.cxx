@@ -4,7 +4,7 @@
 
 #include <ostream>
 
-#include <libstudxml/qname.hxx>
+#include "qname.hxx"
 
 using namespace std;
 

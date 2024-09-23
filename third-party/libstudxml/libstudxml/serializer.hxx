@@ -5,20 +5,20 @@
 #ifndef LIBSTUDXML_SERIALIZER_HXX
 #define LIBSTUDXML_SERIALIZER_HXX
 
-#include <libstudxml/details/pre.hxx>
-
+#include "details/pre.hxx"
+//
 #include <string>
 #include <ostream>
 #include <cstddef> // std::size_t
 
-#include <libstudxml/details/genx/genx.h>
+#include "details/genx/genx.h"
 
-#include <libstudxml/forward.hxx>
-#include <libstudxml/qname.hxx>
-#include <libstudxml/exception.hxx>
+#include "forward.hxx"
+#include "qname.hxx"
+#include "exception.hxx"
 
-#include <libstudxml/details/config.hxx> // STUDXML_NOTHROW_NOEXCEPT
-#include <libstudxml/details/export.hxx>
+#include "details/config.hxx" // STUDXML_NOTHROW_NOEXCEPT
+#include "details/export.hxx"
 
 namespace xml
 {
@@ -300,8 +300,8 @@ namespace xml
   operator<< (serializer&, const T& value);
 }
 
-#include <libstudxml/serializer.ixx>
-
-#include <libstudxml/details/post.hxx>
+#include "serializer.ixx"
+//
+#include "details/post.hxx"
 
 #endif // LIBSTUDXML_SERIALIZER_HXX

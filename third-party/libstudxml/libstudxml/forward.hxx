@@ -5,9 +5,9 @@
 #ifndef LIBSTUDXML_FORWARD_HXX
 #define LIBSTUDXML_FORWARD_HXX
 
-#include <libstudxml/details/pre.hxx>
-
-#include <libstudxml/version.hxx>
+#include "details/pre.hxx"
+//
+#include "version.hxx"
 
 namespace xml
 {
@@ -16,7 +16,7 @@ namespace xml
   class serializer;
   class exception;
 }
-
-#include <libstudxml/details/post.hxx>
+//
+#include "details/post.hxx"
 
 #endif // LIBSTUDXML_FORWARD_HXX

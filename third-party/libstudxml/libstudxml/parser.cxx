@@ -9,7 +9,7 @@
 #include <ostream>
 #include <sstream>
 
-#include <libstudxml/parser.hxx>
+#include "parser.hxx"
 
 using namespace std;
 

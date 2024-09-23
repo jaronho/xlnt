@@ -4,12 +4,12 @@
 
 #include <stddef.h>
 
-#include <libstudxml/details/expat/config.h>
+#include "config.h"
 
-#include <libstudxml/details/expat/expat_external.h>
-#include <libstudxml/details/expat/internal.h>
-#include <libstudxml/details/expat/xmlrole.h>
-#include <libstudxml/details/expat/ascii.h>
+#include "expat_external.h"
+#include "internal.h"
+#include "xmlrole.h"
+#include "ascii.h"
 
 /* Doesn't check:
 

@@ -5,14 +5,14 @@
 #ifndef LIBSTUDXML_QNAME_HXX
 #define LIBSTUDXML_QNAME_HXX
 
-#include <libstudxml/details/pre.hxx>
-
+#include "details/pre.hxx"
+//
 #include <string>
 #include <iosfwd>
 
-#include <libstudxml/forward.hxx>
+#include "forward.hxx"
 
-#include <libstudxml/details/export.hxx>
+#include "details/export.hxx"
 
 namespace xml
 {
@@ -80,7 +80,7 @@ namespace xml
   LIBSTUDXML_EXPORT std::ostream&
   operator<< (std::ostream&, const qname&);
 }
-
-#include <libstudxml/details/post.hxx>
+//
+#include "details/post.hxx"
 
 #endif // LIBSTUDXML_QNAME_HXX
