@@ -3,7 +3,7 @@
 #include <cstddef>
 #include <string>
 
-#include <xlnt/utils/optional.hpp>
+#include "../../../include/xlnt/utils/optional.hpp"
 
 namespace xlnt {
 

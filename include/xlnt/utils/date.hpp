@@ -25,8 +25,8 @@
 
 #include <string>
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/utils/calendar.hpp>
+#include "../xlnt_config.hpp"
+#include "calendar.hpp"
 
 namespace xlnt {
 

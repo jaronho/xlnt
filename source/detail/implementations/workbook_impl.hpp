@@ -27,18 +27,18 @@
 #include <unordered_map>
 #include <vector>
 
-#include <detail/implementations/stylesheet.hpp>
-#include <detail/implementations/worksheet_impl.hpp>
-#include <xlnt/packaging/ext_list.hpp>
-#include <xlnt/packaging/manifest.hpp>
-#include <xlnt/utils/datetime.hpp>
-#include <xlnt/utils/variant.hpp>
-#include <xlnt/workbook/calculation_properties.hpp>
-#include <xlnt/workbook/theme.hpp>
-#include <xlnt/workbook/workbook_view.hpp>
-#include <xlnt/worksheet/range.hpp>
-#include <xlnt/worksheet/range_reference.hpp>
-#include <xlnt/worksheet/sheet_view.hpp>
+#include "stylesheet.hpp"
+#include "worksheet_impl.hpp"
+#include "../../../include/xlnt/packaging/ext_list.hpp"
+#include "../../../include/xlnt/packaging/manifest.hpp"
+#include "../../../include/xlnt/utils/datetime.hpp"
+#include "../../../include/xlnt/utils/variant.hpp"
+#include "../../../include/xlnt/workbook/calculation_properties.hpp"
+#include "../../../include/xlnt/workbook/theme.hpp"
+#include "../../../include/xlnt/workbook/workbook_view.hpp"
+#include "../../../include/xlnt/worksheet/range.hpp"
+#include "../../../include/xlnt/worksheet/range_reference.hpp"
+#include "../../../include/xlnt/worksheet/sheet_view.hpp"
 
 namespace xlnt {
 namespace detail {

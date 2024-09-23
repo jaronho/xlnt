@@ -21,10 +21,10 @@
 //
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
-#include <xlnt/utils/exceptions.hpp>
-#include <xlnt/workbook/named_range.hpp>
-#include <xlnt/worksheet/range_reference.hpp>
-#include <xlnt/worksheet/worksheet.hpp>
+#include "../../include/xlnt/utils/exceptions.hpp"
+#include "../../include/xlnt/workbook/named_range.hpp"
+#include "../../include/xlnt/worksheet/range_reference.hpp"
+#include "../../include/xlnt/worksheet/worksheet.hpp"
 
 namespace {
 

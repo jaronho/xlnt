@@ -25,8 +25,8 @@
 #include <cmath>
 #include <cstdlib>
 
-#include <xlnt/styles/color.hpp>
-#include <xlnt/utils/exceptions.hpp>
+#include "../../include/xlnt/styles/color.hpp"
+#include "../../include/xlnt/utils/exceptions.hpp"
 
 namespace {
 

@@ -23,9 +23,9 @@
 
 #include <algorithm> // std::all_of
 
-#include <xlnt/cell/cell.hpp>
-#include <xlnt/worksheet/cell_iterator.hpp>
-#include <xlnt/worksheet/cell_vector.hpp>
+#include "../../include/xlnt/cell/cell.hpp"
+#include "../../include/xlnt/worksheet/cell_iterator.hpp"
+#include "../../include/xlnt/worksheet/cell_vector.hpp"
 
 namespace xlnt {
 

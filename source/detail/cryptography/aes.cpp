@@ -31,8 +31,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include <xlnt/utils/exceptions.hpp>
-#include <detail/cryptography/aes.hpp>
+#include "../../../include/xlnt/utils/exceptions.hpp"
+#include "aes.hpp"
 
 namespace {
 

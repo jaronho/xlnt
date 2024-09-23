@@ -23,9 +23,9 @@
 #include <cmath>
 #include <ctime>
 
-#include <xlnt/utils/date.hpp>
-#include <xlnt/utils/datetime.hpp>
-#include <xlnt/utils/time.hpp>
+#include "../../include/xlnt/utils/date.hpp"
+#include "../../include/xlnt/utils/datetime.hpp"
+#include "../../include/xlnt/utils/time.hpp"
 
 namespace {
 

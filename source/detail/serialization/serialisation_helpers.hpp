@@ -1,8 +1,8 @@
 #ifndef XLNT_DETAIL_SERIALISATION_HELPERS_HPP
 #define XLNT_DETAIL_SERIALISATION_HELPERS_HPP
 
-#include <xlnt/cell/cell_type.hpp>
-#include <xlnt/cell/index_types.hpp>
+#include "../../../include/xlnt/cell/cell_type.hpp"
+#include "../../../include/xlnt/cell/index_types.hpp"
 #include <string>
 
 namespace xlnt {

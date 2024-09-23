@@ -27,8 +27,8 @@
 #include <unordered_map>
 #include <vector>
 
-#include <xlnt/utils/datetime.hpp>
-#include <xlnt/utils/numeric.hpp>
+#include "../../../include/xlnt/utils/datetime.hpp"
+#include "../../../include/xlnt/utils/numeric.hpp"
 
 namespace xlnt {
 namespace detail {

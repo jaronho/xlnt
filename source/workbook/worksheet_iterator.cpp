@@ -21,9 +21,9 @@
 //
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
-#include <xlnt/workbook/workbook.hpp>
-#include <xlnt/workbook/worksheet_iterator.hpp>
-#include <xlnt/worksheet/worksheet.hpp>
+#include "../../include/xlnt/workbook/workbook.hpp"
+#include "../../include/xlnt/workbook/worksheet_iterator.hpp"
+#include "../../include/xlnt/worksheet/worksheet.hpp"
 
 namespace xlnt {
 

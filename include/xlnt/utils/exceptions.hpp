@@ -27,8 +27,8 @@
 #include <cstdint>
 #include <stdexcept>
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/cell/index_types.hpp>
+#include "../xlnt_config.hpp"
+#include "../cell/index_types.hpp"
 
 namespace xlnt {
 

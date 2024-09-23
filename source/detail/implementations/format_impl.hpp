@@ -2,13 +2,13 @@
 
 #include <cstddef>
 
-#include <xlnt/styles/alignment.hpp>
-#include <xlnt/styles/border.hpp>
-#include <xlnt/styles/fill.hpp>
-#include <xlnt/styles/font.hpp>
-#include <xlnt/styles/number_format.hpp>
-#include <xlnt/styles/protection.hpp>
-#include <xlnt/utils/optional.hpp>
+#include "../../../include/xlnt/styles/alignment.hpp"
+#include "../../../include/xlnt/styles/border.hpp"
+#include "../../../include/xlnt/styles/fill.hpp"
+#include "../../../include/xlnt/styles/font.hpp"
+#include "../../../include/xlnt/styles/number_format.hpp"
+#include "../../../include/xlnt/styles/protection.hpp"
+#include "../../../include/xlnt/utils/optional.hpp"
 
 namespace xlnt {
 

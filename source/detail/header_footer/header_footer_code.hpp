@@ -24,10 +24,10 @@
 #include <array>
 #include <string>
 
-#include <xlnt/cell/rich_text.hpp>
-#include <xlnt/utils/optional.hpp>
-#include <xlnt/worksheet/header_footer.hpp>
-#include <xlnt/utils/numeric.hpp>
+#include "../../../include/xlnt/cell/rich_text.hpp"
+#include "../../../include/xlnt/utils/optional.hpp"
+#include "../../../include/xlnt/worksheet/header_footer.hpp"
+#include "../../../include/xlnt/utils/numeric.hpp"
 
 namespace xlnt {
 namespace detail {

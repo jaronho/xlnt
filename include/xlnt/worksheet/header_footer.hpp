@@ -28,9 +28,9 @@
 #include <string>
 #include <unordered_map>
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/cell/rich_text.hpp>
-#include <xlnt/utils/scoped_enum_hash.hpp>
+#include "../xlnt_config.hpp"
+#include "../cell/rich_text.hpp"
+#include "../utils/scoped_enum_hash.hpp"
 
 namespace xlnt {
 

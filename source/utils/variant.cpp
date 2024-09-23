@@ -21,8 +21,8 @@
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
 
-#include <xlnt/utils/datetime.hpp>
-#include <xlnt/utils/variant.hpp>
+#include "../../include/xlnt/utils/datetime.hpp"
+#include "../../include/xlnt/utils/variant.hpp"
 
 namespace xlnt {
 

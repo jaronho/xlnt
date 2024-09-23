@@ -28,10 +28,10 @@
 #include <string>
 #include <unordered_map>
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/cell/cell_type.hpp>
-#include <xlnt/cell/index_types.hpp>
-#include <xlnt/cell/rich_text.hpp>
+#include "../xlnt_config.hpp"
+#include "cell_type.hpp"
+#include "index_types.hpp"
+#include "rich_text.hpp"
 
 namespace xlnt {
 

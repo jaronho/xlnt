@@ -30,10 +30,10 @@
 #include <string>
 #include <vector>
 
-#include <xlnt/utils/exceptions.hpp>
-#include <detail/binary.hpp>
-#include <detail/cryptography/compound_document.hpp>
-#include <detail/unicode.hpp>
+#include "../../../include/xlnt/utils/exceptions.hpp"
+#include "../binary.hpp"
+#include "compound_document.hpp"
+#include "../unicode.hpp"
 
 namespace {
 

@@ -23,11 +23,11 @@
 // @author: see AUTHORS file
 
 // detail imports must come first in this file.
-#include <detail/implementations/format_impl.hpp>
-#include <detail/implementations/stylesheet.hpp>
+#include "../detail/implementations/format_impl.hpp"
+#include "../detail/implementations/stylesheet.hpp"
 
-#include <xlnt/styles/format.hpp>
-#include <xlnt/styles/style.hpp>
+#include "../../include/xlnt/styles/format.hpp"
+#include "../../include/xlnt/styles/style.hpp"
 
 namespace xlnt {
 

@@ -26,9 +26,9 @@
 #include <string>
 #include <unordered_map>
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/cell/index_types.hpp>
-#include <xlnt/utils/path.hpp>
+#include "../../include/xlnt/xlnt_config.hpp"
+#include "../../include/xlnt/cell/index_types.hpp"
+#include "../../include/xlnt/utils/path.hpp"
 
 namespace xlnt {
 

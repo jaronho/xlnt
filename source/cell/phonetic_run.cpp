@@ -21,7 +21,7 @@
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
 
-#include <xlnt/cell/phonetic_run.hpp>
+#include "../../include/xlnt/cell/phonetic_run.hpp"
 #include <tuple>
 
 namespace xlnt {

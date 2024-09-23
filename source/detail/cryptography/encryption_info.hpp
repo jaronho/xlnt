@@ -25,8 +25,8 @@
 #include <string>
 #include <vector>
 
-#include <detail/cryptography/cipher.hpp>
-#include <detail/cryptography/hash.hpp>
+#include "cipher.hpp"
+#include "hash.hpp"
 
 namespace xlnt {
 namespace detail {

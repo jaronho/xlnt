@@ -25,12 +25,12 @@
 
 #include <iterator>
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/cell/cell_reference.hpp>
-#include <xlnt/worksheet/cell_iterator.hpp>
-#include <xlnt/worksheet/major_order.hpp>
-#include <xlnt/worksheet/range_reference.hpp>
-#include <xlnt/worksheet/worksheet.hpp>
+#include "../xlnt_config.hpp"
+#include "../cell/cell_reference.hpp"
+#include "cell_iterator.hpp"
+#include "major_order.hpp"
+#include "range_reference.hpp"
+#include "worksheet.hpp"
 
 namespace xlnt {
 

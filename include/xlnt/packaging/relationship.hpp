@@ -26,9 +26,9 @@
 
 #include <string>
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/packaging/uri.hpp>
-#include <xlnt/utils/path.hpp>
+#include "../xlnt_config.hpp"
+#include "../packaging/uri.hpp"
+#include "../utils/path.hpp"
 
 namespace xlnt {
 

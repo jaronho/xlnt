@@ -32,9 +32,9 @@
 #include <unordered_map>
 #include <vector>
 
-#include <detail/external/include_libstudxml.hpp>
-#include <detail/serialization/zstream.hpp>
-#include <xlnt/utils/numeric.hpp>
+#include "../external/include_libstudxml.hpp"
+#include "zstream.hpp"
+#include "../../../include/xlnt/utils/numeric.hpp"
 
 namespace xlnt {
 

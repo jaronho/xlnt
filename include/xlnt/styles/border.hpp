@@ -29,9 +29,9 @@
 #include <unordered_map>
 #include <vector>
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/styles/color.hpp>
-#include <xlnt/utils/optional.hpp>
+#include "../xlnt_config.hpp"
+#include "color.hpp"
+#include "../utils/optional.hpp"
 
 namespace xlnt {
 

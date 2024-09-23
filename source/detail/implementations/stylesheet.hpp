@@ -27,17 +27,17 @@
 #include <string>
 #include <vector>
 
-#include <detail/implementations/conditional_format_impl.hpp>
-#include <detail/implementations/format_impl.hpp>
-#include <detail/implementations/style_impl.hpp>
-#include <xlnt/cell/cell.hpp>
-#include <xlnt/styles/conditional_format.hpp>
-#include <xlnt/styles/format.hpp>
-#include <xlnt/styles/style.hpp>
-#include <xlnt/utils/exceptions.hpp>
-#include <xlnt/workbook/workbook.hpp>
-#include <xlnt/workbook/worksheet_iterator.hpp>
-#include <xlnt/worksheet/worksheet.hpp>
+#include "conditional_format_impl.hpp"
+#include "format_impl.hpp"
+#include "style_impl.hpp"
+#include "../../../include/xlnt/cell/cell.hpp"
+#include "../../../include/xlnt/styles/conditional_format.hpp"
+#include "../../../include/xlnt/styles/format.hpp"
+#include "../../../include/xlnt/styles/style.hpp"
+#include "../../../include/xlnt/utils/exceptions.hpp"
+#include "../../../include/xlnt/workbook/workbook.hpp"
+#include "../../../include/xlnt/workbook/worksheet_iterator.hpp"
+#include "../../../include/xlnt/worksheet/worksheet.hpp"
 
 namespace xlnt {
 namespace detail {

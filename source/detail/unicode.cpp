@@ -25,11 +25,11 @@
 #pragma clang diagnostic ignored "-Wdeprecated"
 #pragma clang diagnostic ignored "-Wweak-vtables"
 #pragma clang diagnostic ignored "-Wsign-conversion"
-#include <utf8.h>
+#include "../../third-party/utfcpp/utf8.h"
 #pragma clang diagnostic pop
 
-#include <xlnt/utils/exceptions.hpp>
-#include <detail/unicode.hpp>
+#include "../../include/xlnt/utils/exceptions.hpp"
+#include "../detail/unicode.hpp"
 
 namespace xlnt {
 namespace detail {

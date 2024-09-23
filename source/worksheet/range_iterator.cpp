@@ -20,11 +20,11 @@
 //
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
-#include <xlnt/cell/cell.hpp>
-#include <xlnt/worksheet/range.hpp>
-#include <xlnt/worksheet/range_iterator.hpp>
-#include <xlnt/worksheet/range_reference.hpp>
-#include <xlnt/worksheet/worksheet.hpp>
+#include "../../include/xlnt/cell/cell.hpp"
+#include "../../include/xlnt/worksheet/range.hpp"
+#include "../../include/xlnt/worksheet/range_iterator.hpp"
+#include "../../include/xlnt/worksheet/range_reference.hpp"
+#include "../../include/xlnt/worksheet/worksheet.hpp"
 
 namespace xlnt {
 

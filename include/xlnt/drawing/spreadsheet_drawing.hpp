@@ -23,7 +23,7 @@
 
 #pragma once
 
-#include <xlnt/xlnt_config.hpp>
+#include "../xlnt_config.hpp"
 #include <string>
 #include <vector>
 

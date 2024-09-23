@@ -23,10 +23,10 @@
 
 #pragma once
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/cell/cell_reference.hpp>
-#include <xlnt/worksheet/pane.hpp>
-#include <xlnt/worksheet/range_reference.hpp>
+#include "../xlnt_config.hpp"
+#include "../cell/cell_reference.hpp"
+#include "pane.hpp"
+#include "range_reference.hpp"
 
 namespace xlnt {
 

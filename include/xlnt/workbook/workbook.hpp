@@ -33,8 +33,8 @@
 #include <utility>
 #include <vector>
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/cell/rich_text.hpp>
+#include "../xlnt_config.hpp"
+#include "../cell/rich_text.hpp"
 
 namespace xlnt {
 

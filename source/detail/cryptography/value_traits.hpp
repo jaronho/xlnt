@@ -25,9 +25,9 @@
 
 #include <string>
 
-#include <detail/default_case.hpp>
-#include <detail/cryptography/hash.hpp>
-#include <detail/external/include_libstudxml.hpp>
+#include "../default_case.hpp"
+#include "hash.hpp"
+#include "../external/include_libstudxml.hpp"
 
 namespace xml {
 

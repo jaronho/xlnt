@@ -1,4 +1,4 @@
-#include <xlnt/packaging/uri.hpp>
+#include "../../include/xlnt/packaging/uri.hpp"
 
 namespace xlnt {
 

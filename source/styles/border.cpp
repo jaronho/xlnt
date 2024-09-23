@@ -22,9 +22,9 @@
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
 
-#include <xlnt/styles/border.hpp>
-#include <xlnt/utils/exceptions.hpp>
-#include <detail/default_case.hpp>
+#include "../../include/xlnt/styles/border.hpp"
+#include "../../include/xlnt/utils/exceptions.hpp"
+#include "../detail/default_case.hpp"
 
 namespace xlnt {
 

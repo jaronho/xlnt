@@ -24,7 +24,7 @@
 
 #include <cmath>
 
-#include <xlnt/styles/font.hpp>
+#include "../../include/xlnt/styles/font.hpp"
 
 namespace {
 const std::string &Default_Name()

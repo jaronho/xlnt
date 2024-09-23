@@ -22,7 +22,7 @@
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
 
-#include <xlnt/packaging/relationship.hpp>
+#include "../../include/xlnt/packaging/relationship.hpp"
 
 namespace xlnt {
 

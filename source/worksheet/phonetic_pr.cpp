@@ -21,7 +21,7 @@
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
 
-#include <xlnt/worksheet/phonetic_pr.hpp>
+#include "../../include/xlnt/worksheet/phonetic_pr.hpp"
 #include <array>
 namespace {
 // Order of elements defined by phonetic_pr::Type enum

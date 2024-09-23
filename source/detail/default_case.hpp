@@ -23,8 +23,7 @@
 
 #pragma once
 
-#include <xlnt/utils/exceptions.hpp>
-
+#include "../../include/xlnt/utils/exceptions.hpp"
 #define EXCEPT_ON_UNHANDLED_SWITCH_CASE
 
 #ifdef EXCEPT_ON_UNHANDLED_SWITCH_CASE

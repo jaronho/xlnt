@@ -22,9 +22,9 @@
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
 
-#include <xlnt/cell/hyperlink.hpp>
-#include <xlnt/utils/exceptions.hpp>
-#include <detail/implementations/hyperlink_impl.hpp>
+#include "../../include/xlnt/cell/hyperlink.hpp"
+#include "../../include/xlnt/utils/exceptions.hpp"
+#include "../detail/implementations/hyperlink_impl.hpp"
 
 namespace xlnt {
 

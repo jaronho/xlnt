@@ -22,15 +22,15 @@
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
 
-#include <xlnt/styles/alignment.hpp>
-#include <xlnt/styles/border.hpp>
-#include <xlnt/styles/fill.hpp>
-#include <xlnt/styles/font.hpp>
-#include <xlnt/styles/number_format.hpp>
-#include <xlnt/styles/protection.hpp>
-#include <xlnt/styles/style.hpp>
-#include <detail/implementations/style_impl.hpp>
-#include <detail/implementations/stylesheet.hpp>
+#include "../../include/xlnt/styles/alignment.hpp"
+#include "../../include/xlnt/styles/border.hpp"
+#include "../../include/xlnt/styles/fill.hpp"
+#include "../../include/xlnt/styles/font.hpp"
+#include "../../include/xlnt/styles/number_format.hpp"
+#include "../../include/xlnt/styles/protection.hpp"
+#include "../../include/xlnt/styles/style.hpp"
+#include "../detail/implementations/style_impl.hpp"
+#include "../detail/implementations/stylesheet.hpp"
 
 namespace {
 

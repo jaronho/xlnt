@@ -23,7 +23,7 @@
 #include <cmath>
 #include <ctime>
 
-#include <xlnt/utils/time.hpp>
+#include "../../include/xlnt/utils/time.hpp"
 
 namespace {
 

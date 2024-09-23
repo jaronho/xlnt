@@ -30,12 +30,12 @@
 #include <unordered_map>
 #include <vector>
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/cell/index_types.hpp>
-#include <xlnt/packaging/relationship.hpp>
-#include <xlnt/worksheet/page_margins.hpp>
-#include <xlnt/worksheet/page_setup.hpp>
-#include <xlnt/worksheet/sheet_view.hpp>
+#include "../xlnt_config.hpp"
+#include "../cell/index_types.hpp"
+#include "../packaging/relationship.hpp"
+#include "page_margins.hpp"
+#include "page_setup.hpp"
+#include "sheet_view.hpp"
 
 namespace xlnt {
 

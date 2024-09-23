@@ -27,9 +27,9 @@
 #include <string>
 #include <unordered_map>
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/packaging/relationship.hpp>
-#include <xlnt/utils/path.hpp>
+#include "../xlnt_config.hpp"
+#include "../packaging/relationship.hpp"
+#include "../utils/path.hpp"
 
 namespace xlnt {
 

@@ -21,7 +21,7 @@
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
 
-#include <xlnt/cell/rich_text_run.hpp>
+#include "../../include/xlnt/cell/rich_text_run.hpp"
 
 namespace xlnt {
 

@@ -23,7 +23,7 @@
 #include <cmath>
 #include <ctime>
 
-#include <xlnt/utils/timedelta.hpp>
+#include "../../include/xlnt/utils/timedelta.hpp"
 
 namespace xlnt {
 

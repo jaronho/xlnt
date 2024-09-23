@@ -22,7 +22,7 @@
 // @author: see AUTHORS file
 #include <locale>
 
-#include <xlnt/worksheet/range_reference.hpp>
+#include "../../include/xlnt/worksheet/range_reference.hpp"
 
 namespace xlnt {
 

@@ -21,7 +21,7 @@
 //
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
-#include <xlnt/cell/comment.hpp>
+#include "../../include/xlnt/cell/comment.hpp"
 
 namespace xlnt {
 

@@ -24,11 +24,11 @@
 
 #include <cctype>
 
-#include <xlnt/cell/cell_reference.hpp>
-#include <xlnt/utils/exceptions.hpp>
-#include <xlnt/worksheet/range_reference.hpp>
+#include "../../include/xlnt/cell/cell_reference.hpp"
+#include "../../include/xlnt/utils/exceptions.hpp"
+#include "../../include/xlnt/worksheet/range_reference.hpp"
 
-#include <detail/constants.hpp>
+#include "../detail/constants.hpp"
 
 namespace xlnt {
 

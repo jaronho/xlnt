@@ -1,7 +1,7 @@
-#include <xlnt/packaging/ext_list.hpp>
+#include "../../include/xlnt/packaging/ext_list.hpp"
 #include <algorithm>
 
-#include <detail/external/include_libstudxml.hpp>
+#include "../detail/external/include_libstudxml.hpp"
 
 namespace {
 // send elements straight from parser to serialiser without modification

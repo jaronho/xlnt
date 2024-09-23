@@ -24,9 +24,9 @@
 
 #pragma once
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/cell/cell_reference.hpp>
-#include <xlnt/cell/index_types.hpp>
+#include "../xlnt_config.hpp"
+#include "../cell/cell_reference.hpp"
+#include "../cell/index_types.hpp"
 
 namespace xlnt {
 

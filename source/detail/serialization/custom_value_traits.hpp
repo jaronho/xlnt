@@ -27,18 +27,18 @@
 #include <string>
 #include <unordered_map>
 
-#include <detail/default_case.hpp>
-#include <detail/external/include_libstudxml.hpp>
-#include <xlnt/packaging/relationship.hpp>
-#include <xlnt/styles/alignment.hpp>
-#include <xlnt/styles/border.hpp>
-#include <xlnt/styles/font.hpp>
-#include <xlnt/styles/fill.hpp>
-#include <xlnt/utils/exceptions.hpp>
-#include <xlnt/utils/variant.hpp>
-#include <xlnt/worksheet/pane.hpp>
-#include <xlnt/worksheet/page_setup.hpp>
-#include <xlnt/workbook/metadata_property.hpp>
+#include "../default_case.hpp"
+#include "../external/include_libstudxml.hpp"
+#include "../../../include/xlnt/packaging/relationship.hpp"
+#include "../../../include/xlnt/styles/alignment.hpp"
+#include "../../../include/xlnt/styles/border.hpp"
+#include "../../../include/xlnt/styles/font.hpp"
+#include "../../../include/xlnt/styles/fill.hpp"
+#include "../../../include/xlnt/utils/exceptions.hpp"
+#include "../../../include/xlnt/utils/variant.hpp"
+#include "../../../include/xlnt/worksheet/pane.hpp"
+#include "../../../include/xlnt/worksheet/page_setup.hpp"
+#include "../../../include/xlnt/workbook/metadata_property.hpp"
 
 namespace xlnt {
 namespace detail {

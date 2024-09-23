@@ -22,7 +22,7 @@
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
 
-#include <xlnt/worksheet/header_footer.hpp>
+#include "../../include/xlnt/worksheet/header_footer.hpp"
 
 namespace xlnt {
 

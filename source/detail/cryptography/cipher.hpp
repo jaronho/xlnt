@@ -25,7 +25,7 @@
 
 #include <vector>
 
-#include <detail/cryptography/sha.hpp>
+#include "sha.hpp"
 
 namespace xlnt {
 namespace detail {

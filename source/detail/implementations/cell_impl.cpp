@@ -22,9 +22,9 @@
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
 
-#include <xlnt/worksheet/worksheet.hpp>
+#include "../../../include/xlnt/worksheet/worksheet.hpp"
 
-#include <detail/implementations/cell_impl.hpp>
+#include "cell_impl.hpp"
 
 namespace xlnt {
 namespace detail {

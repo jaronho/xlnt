@@ -23,16 +23,16 @@
 
 #include <fstream>
 
-#include <xlnt/cell/cell.hpp>
-#include <xlnt/packaging/manifest.hpp>
-#include <xlnt/utils/optional.hpp>
-#include <xlnt/workbook/streaming_workbook_reader.hpp>
-#include <xlnt/workbook/workbook.hpp>
-#include <xlnt/worksheet/worksheet.hpp>
-#include <detail/implementations/workbook_impl.hpp>
-#include <detail/serialization/open_stream.hpp>
-#include <detail/serialization/vector_streambuf.hpp>
-#include <detail/serialization/xlsx_consumer.hpp>
+#include "../../include/xlnt/cell/cell.hpp"
+#include "../../include/xlnt/packaging/manifest.hpp"
+#include "../../include/xlnt/utils/optional.hpp"
+#include "../../include/xlnt/workbook/streaming_workbook_reader.hpp"
+#include "../../include/xlnt/workbook/workbook.hpp"
+#include "../../include/xlnt/worksheet/worksheet.hpp"
+#include "../detail/implementations/workbook_impl.hpp"
+#include "../detail/serialization/open_stream.hpp"
+#include "../detail/serialization/vector_streambuf.hpp"
+#include "../detail/serialization/xlsx_consumer.hpp"
 
 namespace xlnt {
 

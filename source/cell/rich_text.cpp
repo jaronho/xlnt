@@ -23,8 +23,8 @@
 // @author: see AUTHORS file
 #include <numeric>
 
-#include <xlnt/cell/rich_text.hpp>
-#include <xlnt/cell/rich_text_run.hpp>
+#include "../../include/xlnt/cell/rich_text.hpp"
+#include "../../include/xlnt/cell/rich_text_run.hpp"
 
 namespace {
 bool has_trailing_whitespace(const std::string &s)

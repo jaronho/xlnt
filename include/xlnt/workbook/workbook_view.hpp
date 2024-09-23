@@ -24,8 +24,8 @@
 
 #include <cstddef>
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/utils/optional.hpp>
+#include "../xlnt_config.hpp"
+#include "../utils/optional.hpp"
 
 namespace xlnt {
 

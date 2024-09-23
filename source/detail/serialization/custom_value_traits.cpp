@@ -21,7 +21,7 @@
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
 
-#include <detail/serialization/custom_value_traits.hpp>
+#include "custom_value_traits.hpp"
 
 namespace xlnt {
 namespace detail {

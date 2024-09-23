@@ -22,7 +22,7 @@
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
 
-#include <xlnt/utils/exceptions.hpp>
+#include "../../include/xlnt/utils/exceptions.hpp"
 
 namespace xlnt {
 

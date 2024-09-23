@@ -23,9 +23,9 @@
 
 #include <array>
 
-#include <detail/binary.hpp>
-#include <detail/cryptography/aes.hpp>
-#include <detail/cryptography/encryption_info.hpp>
+#include "../binary.hpp"
+#include "aes.hpp"
+#include "encryption_info.hpp"
 
 namespace {
 

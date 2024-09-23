@@ -27,20 +27,20 @@
 #include <unordered_map>
 #include <vector>
 
-#include <xlnt/drawing/spreadsheet_drawing.hpp>
-#include <xlnt/packaging/ext_list.hpp>
-#include <xlnt/workbook/named_range.hpp>
-#include <xlnt/worksheet/column_properties.hpp>
-#include <xlnt/worksheet/header_footer.hpp>
-#include <xlnt/worksheet/phonetic_pr.hpp>
-#include <xlnt/worksheet/range.hpp>
-#include <xlnt/worksheet/range_reference.hpp>
-#include <xlnt/worksheet/row_properties.hpp>
-#include <xlnt/worksheet/sheet_format_properties.hpp>
-#include <xlnt/worksheet/sheet_view.hpp>
-#include <xlnt/worksheet/print_options.hpp>
-#include <xlnt/worksheet/sheet_pr.hpp>
-#include <detail/implementations/cell_impl.hpp>
+#include "../../../include/xlnt/drawing/spreadsheet_drawing.hpp"
+#include "../../../include/xlnt/packaging/ext_list.hpp"
+#include "../../../include/xlnt/workbook/named_range.hpp"
+#include "../../../include/xlnt/worksheet/column_properties.hpp"
+#include "../../../include/xlnt/worksheet/header_footer.hpp"
+#include "../../../include/xlnt/worksheet/phonetic_pr.hpp"
+#include "../../../include/xlnt/worksheet/range.hpp"
+#include "../../../include/xlnt/worksheet/range_reference.hpp"
+#include "../../../include/xlnt/worksheet/row_properties.hpp"
+#include "../../../include/xlnt/worksheet/sheet_format_properties.hpp"
+#include "../../../include/xlnt/worksheet/sheet_view.hpp"
+#include "../../../include/xlnt/worksheet/print_options.hpp"
+#include "../../../include/xlnt/worksheet/sheet_pr.hpp"
+#include "cell_impl.hpp"
 
 namespace xlnt {
 

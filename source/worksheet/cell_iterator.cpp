@@ -21,10 +21,10 @@
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
 
-#include <xlnt/cell/cell.hpp>
-#include <xlnt/cell/cell_reference.hpp>
-#include <xlnt/worksheet/cell_iterator.hpp>
-#include <xlnt/worksheet/major_order.hpp>
+#include "../../include/xlnt/cell/cell.hpp"
+#include "../../include/xlnt/cell/cell_reference.hpp"
+#include "../../include/xlnt/worksheet/cell_iterator.hpp"
+#include "../../include/xlnt/worksheet/major_order.hpp"
 
 namespace xlnt {
 

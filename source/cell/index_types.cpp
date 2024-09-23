@@ -23,9 +23,9 @@
 // @author: see AUTHORS file
 #include <cctype>
 
-#include <xlnt/cell/index_types.hpp>
-#include <xlnt/utils/exceptions.hpp>
-#include <detail/constants.hpp>
+#include "../../include/xlnt/cell/index_types.hpp"
+#include "../../include/xlnt/utils/exceptions.hpp"
+#include "../detail/constants.hpp"
 
 namespace xlnt {
 

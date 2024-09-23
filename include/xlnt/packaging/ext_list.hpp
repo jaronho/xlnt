@@ -23,8 +23,8 @@
 
 #pragma once
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/packaging/uri.hpp>
+#include "../xlnt_config.hpp"
+#include "../packaging/uri.hpp"
 
 #include <string>
 #include <vector>

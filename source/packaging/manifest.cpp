@@ -25,8 +25,8 @@
 #include <algorithm>
 #include <unordered_set>
 
-#include <xlnt/packaging/manifest.hpp>
-#include <xlnt/utils/exceptions.hpp>
+#include "../../include/xlnt/packaging/manifest.hpp"
+#include "../../include/xlnt/utils/exceptions.hpp"
 
 namespace xlnt {
 

@@ -29,19 +29,19 @@
 #include <string>
 #include <vector>
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/styles/alignment.hpp>
-#include <xlnt/styles/border.hpp>
-#include <xlnt/styles/conditional_format.hpp>
-#include <xlnt/styles/fill.hpp>
-#include <xlnt/styles/font.hpp>
-#include <xlnt/styles/number_format.hpp>
-#include <xlnt/styles/protection.hpp>
-#include <xlnt/worksheet/cell_vector.hpp>
-#include <xlnt/worksheet/major_order.hpp>
-#include <xlnt/worksheet/range_iterator.hpp>
-#include <xlnt/worksheet/range_reference.hpp>
-#include <xlnt/worksheet/worksheet.hpp>
+#include "../xlnt_config.hpp"
+#include "../styles/alignment.hpp"
+#include "../styles/border.hpp"
+#include "../styles/conditional_format.hpp"
+#include "../styles/fill.hpp"
+#include "../styles/font.hpp"
+#include "../styles/number_format.hpp"
+#include "../styles/protection.hpp"
+#include "cell_vector.hpp"
+#include "major_order.hpp"
+#include "range_iterator.hpp"
+#include "range_reference.hpp"
+#include "worksheet.hpp"
 
 namespace xlnt {
 

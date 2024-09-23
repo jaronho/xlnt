@@ -2,9 +2,9 @@
 
 #include <cstddef>
 
-#include <xlnt/styles/conditional_format.hpp>
-#include <xlnt/utils/optional.hpp>
-#include <xlnt/worksheet/range_reference.hpp>
+#include "../../../include/xlnt/styles/conditional_format.hpp"
+#include "../../../include/xlnt/utils/optional.hpp"
+#include "../../../include/xlnt/worksheet/range_reference.hpp"
 
 namespace xlnt {
 

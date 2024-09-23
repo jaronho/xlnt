@@ -29,9 +29,9 @@
 #include <type_traits>
 #include <vector>
 
-#include <xlnt/utils/numeric.hpp>
-#include <detail/constants.hpp>
-#include <detail/external/include_libstudxml.hpp>
+#include "../../../include/xlnt/utils/numeric.hpp"
+#include "../constants.hpp"
+#include "../external/include_libstudxml.hpp"
 
 namespace xml {
 class serializer;

@@ -25,19 +25,19 @@
 #include <cstdint>
 #include <vector>
 
-#include <xlnt/utils/exceptions.hpp>
-#include <detail/binary.hpp>
-#include <detail/constants.hpp>
-#include <detail/cryptography/aes.hpp>
-#include <detail/cryptography/base64.hpp>
-#include <detail/cryptography/compound_document.hpp>
-#include <detail/cryptography/encryption_info.hpp>
-#include <detail/cryptography/value_traits.hpp>
-#include <detail/cryptography/xlsx_crypto_consumer.hpp>
-#include <detail/external/include_libstudxml.hpp>
-#include <detail/serialization/vector_streambuf.hpp>
-#include <detail/serialization/xlsx_consumer.hpp>
-#include <detail/unicode.hpp>
+#include "../../../include/xlnt/utils/exceptions.hpp"
+#include "../binary.hpp"
+#include "../constants.hpp"
+#include "aes.hpp"
+#include "base64.hpp"
+#include "compound_document.hpp"
+#include "encryption_info.hpp"
+#include "value_traits.hpp"
+#include "xlsx_crypto_consumer.hpp"
+#include "../external/include_libstudxml.hpp"
+#include "../serialization/vector_streambuf.hpp"
+#include "../serialization/xlsx_consumer.hpp"
+#include "../unicode.hpp"
 
 namespace {
 

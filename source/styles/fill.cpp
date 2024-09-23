@@ -24,7 +24,7 @@
 
 #include <cmath> // for std::fabs
 
-#include <xlnt/styles/fill.hpp>
+#include "../../include/xlnt/styles/fill.hpp"
 
 namespace xlnt {
 

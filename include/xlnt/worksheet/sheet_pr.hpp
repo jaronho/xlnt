@@ -25,9 +25,9 @@
 
 #include <string>
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/cell/cell_reference.hpp>
-#include <xlnt/utils/optional.hpp>
+#include "../xlnt_config.hpp"
+#include "../cell/cell_reference.hpp"
+#include "../utils/optional.hpp"
 
 namespace xlnt {
 

@@ -25,8 +25,8 @@
 
 #include <string>
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/cell/rich_text.hpp>
+#include "../xlnt_config.hpp"
+#include "rich_text.hpp"
 
 namespace xlnt {
 

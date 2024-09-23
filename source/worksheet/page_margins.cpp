@@ -21,8 +21,8 @@
 //
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
-#include <xlnt/utils/numeric.hpp>
-#include <xlnt/worksheet/page_margins.hpp>
+#include "../../include/xlnt/utils/numeric.hpp"
+#include "../../include/xlnt/worksheet/page_margins.hpp"
 
 namespace xlnt {
 

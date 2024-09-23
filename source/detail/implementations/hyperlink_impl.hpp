@@ -25,8 +25,8 @@
 
 #include <string>
 
-#include <xlnt/packaging/relationship.hpp>
-#include <xlnt/utils/optional.hpp>
+#include "../../../include/xlnt/packaging/relationship.hpp"
+#include "../../../include/xlnt/utils/optional.hpp"
 
 namespace xlnt {
 namespace detail {

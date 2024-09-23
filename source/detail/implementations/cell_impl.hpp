@@ -25,14 +25,14 @@
 #include <cstddef>
 #include <string>
 
-#include <xlnt/cell/cell_type.hpp>
-#include <xlnt/cell/comment.hpp>
-#include <xlnt/cell/index_types.hpp>
-#include <xlnt/cell/rich_text.hpp>
-#include <xlnt/packaging/relationship.hpp>
-#include <xlnt/utils/optional.hpp>
-#include <detail/implementations/format_impl.hpp>
-#include <detail/implementations/hyperlink_impl.hpp>
+#include "../../../include/xlnt/cell/cell_type.hpp"
+#include "../../../include/xlnt/cell/comment.hpp"
+#include "../../../include/xlnt/cell/index_types.hpp"
+#include "../../../include/xlnt/cell/rich_text.hpp"
+#include "../../../include/xlnt/packaging/relationship.hpp"
+#include "../../../include/xlnt/utils/optional.hpp"
+#include "format_impl.hpp"
+#include "hyperlink_impl.hpp"
 //#include "../numeric_utils.hpp"
 
 namespace xlnt {

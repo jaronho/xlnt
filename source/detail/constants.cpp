@@ -23,9 +23,9 @@
 
 #include <limits>
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/utils/exceptions.hpp>
-#include <detail/constants.hpp>
+#include "../../include/xlnt/xlnt_config.hpp"
+#include "../../include/xlnt/utils/exceptions.hpp"
+#include "../detail/constants.hpp"
 
 namespace xlnt {
 

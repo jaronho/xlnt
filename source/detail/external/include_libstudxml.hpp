@@ -26,8 +26,8 @@
 #pragma clang diagnostic ignored "-Wweak-vtables"
 #pragma clang diagnostic ignored "-Wextra-semi"
 #pragma clang diagnostic ignored "-Wdeprecated"
-#include <libstudxml/content.hxx>
-#include <libstudxml/parser.hxx>
-#include <libstudxml/qname.hxx>
-#include <libstudxml/serializer.hxx>
+#include "../../../third-party/libstudxml/libstudxml/content.hxx"
+#include "../../../third-party/libstudxml/libstudxml/parser.hxx"
+#include "../../../third-party/libstudxml/libstudxml/qname.hxx"
+#include "../../../third-party/libstudxml/libstudxml/serializer.hxx"
 #pragma clang diagnostic pop

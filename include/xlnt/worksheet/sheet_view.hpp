@@ -24,10 +24,10 @@
 
 #pragma once
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/utils/optional.hpp>
-#include <xlnt/worksheet/pane.hpp>
-#include <xlnt/worksheet/selection.hpp>
+#include "../xlnt_config.hpp"
+#include "../utils/optional.hpp"
+#include "pane.hpp"
+#include "selection.hpp"
 
 namespace xlnt {
 

@@ -37,8 +37,8 @@
 #include <codecvt>
 #endif
 
-#include <xlnt/utils/path.hpp>
-#include <detail/external/include_windows.hpp>
+#include "../../include/xlnt/utils/path.hpp"
+#include "../detail/external/include_windows.hpp"
 
 namespace {
 

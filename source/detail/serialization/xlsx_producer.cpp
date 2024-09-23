@@ -27,23 +27,23 @@
 #include <type_traits>
 #include <unordered_set>
 
-#include <xlnt/cell/cell.hpp>
-#include <xlnt/cell/hyperlink.hpp>
-#include <xlnt/packaging/manifest.hpp>
-#include <xlnt/utils/numeric.hpp>
-#include <xlnt/utils/path.hpp>
-#include <xlnt/utils/scoped_enum_hash.hpp>
-#include <xlnt/workbook/workbook.hpp>
-#include <xlnt/workbook/workbook_view.hpp>
-#include <xlnt/worksheet/header_footer.hpp>
-#include <xlnt/worksheet/worksheet.hpp>
-#include <detail/constants.hpp>
-#include <detail/header_footer/header_footer_code.hpp>
-#include <detail/implementations/workbook_impl.hpp>
-#include <detail/serialization/custom_value_traits.hpp>
-#include <detail/serialization/vector_streambuf.hpp>
-#include <detail/serialization/xlsx_producer.hpp>
-#include <detail/serialization/zstream.hpp>
+#include "../../../include/xlnt/cell/cell.hpp"
+#include "../../../include/xlnt/cell/hyperlink.hpp"
+#include "../../../include/xlnt/packaging/manifest.hpp"
+#include "../../../include/xlnt/utils/numeric.hpp"
+#include "../../../include/xlnt/utils/path.hpp"
+#include "../../../include/xlnt/utils/scoped_enum_hash.hpp"
+#include "../../../include/xlnt/workbook/workbook.hpp"
+#include "../../../include/xlnt/workbook/workbook_view.hpp"
+#include "../../../include/xlnt/worksheet/header_footer.hpp"
+#include "../../../include/xlnt/worksheet/worksheet.hpp"
+#include "../constants.hpp"
+#include "../header_footer/header_footer_code.hpp"
+#include "../implementations/workbook_impl.hpp"
+#include "custom_value_traits.hpp"
+#include "vector_streambuf.hpp"
+#include "xlsx_producer.hpp"
+#include "zstream.hpp"
 
 namespace {
 

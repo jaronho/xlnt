@@ -26,10 +26,10 @@
 #include <string>
 #include <vector>
 
-#include <xlnt/xlnt_config.hpp>
-#include <xlnt/cell/phonetic_run.hpp>
-#include <xlnt/cell/rich_text_run.hpp>
-#include <xlnt/worksheet/phonetic_pr.hpp>
+#include "../xlnt_config.hpp"
+#include "phonetic_run.hpp"
+#include "rich_text_run.hpp"
+#include "../worksheet/phonetic_pr.hpp"
 
 namespace xlnt {
 

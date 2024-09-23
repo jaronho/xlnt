@@ -22,7 +22,7 @@
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
 
-#include <xlnt/styles/alignment.hpp>
+#include "../../include/xlnt/styles/alignment.hpp"
 
 namespace xlnt {
 

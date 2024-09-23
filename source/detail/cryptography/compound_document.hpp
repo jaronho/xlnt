@@ -30,8 +30,8 @@
 #include <string>
 #include <unordered_map>
 
-#include <detail/binary.hpp>
-#include <detail/unicode.hpp>
+#include "../binary.hpp"
+#include "../unicode.hpp"
 
 namespace xlnt {
 namespace detail {

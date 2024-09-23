@@ -21,10 +21,10 @@
 // @license: http://www.opensource.org/licenses/mit-license.php
 // @author: see AUTHORS file
 
-#include <xlnt/drawing/spreadsheet_drawing.hpp>
-#include <detail/constants.hpp>
+#include "../../include/xlnt/drawing/spreadsheet_drawing.hpp"
+#include "../detail/constants.hpp"
 
-#include <detail/external/include_libstudxml.hpp>
+#include "../detail/external/include_libstudxml.hpp"
 
 namespace {
 // copy elements to the serializer provided and extract the embed ids
