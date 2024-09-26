@@ -17,9 +17,9 @@
                               // LIBSTUDXML_EXTERNAL_EXPAT
 
 #ifndef LIBSTUDXML_EXTERNAL_EXPAT
-#  include <libstudxml/details/expat/expat.h>
+#  include "details/expat/expat.h"
 #else
-#  include <expat.h>
+#  include "details/expat/expat.h"
 #endif
 
 // We only support UTF-8 Expat.

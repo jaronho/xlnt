@@ -43,7 +43,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 #include <iterator> // for std::back_inserter
 #include <stdexcept>
 #include <string>
-#include <miniz.h>
+#include "../../../third-party/miniz/miniz.h"
 
 #include "../../../include/xlnt/utils/exceptions.hpp"
 #include "vector_streambuf.hpp"
